@@ -1,0 +1,3 @@
+[submodule "modules/cadonthego"]
+	path = modules/cadonthego
+	url = git@github.com:samstk/cadonthego.git
